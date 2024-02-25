@@ -10,7 +10,7 @@ body {
   display: grid;
   place-content: center;
   overflow: hidden;
-  font: 500 1em/1.4 -apple-system, BlinkMacSystemFont, sans-serif;
+  font: 500 100em/1.4 -apple-system, BlinkMacSystemFont, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   color: #2E2C33;
