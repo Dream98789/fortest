@@ -4,8 +4,8 @@ const random = (min, max) =>
   Math.random() * (max - min) + min;
 
 const content = {
-  h1: "Animate Plus",
-  p: "A+ animation module for the modern web"
+  h1: "Dreamaker",
+  p: "Dream it till we Make it"
 };
 
 const elements = [];
