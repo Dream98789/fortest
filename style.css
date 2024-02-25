@@ -10,7 +10,7 @@ body {
   display: grid;
   place-content: center;
   overflow: hidden;
-  font: 500 100em/1.4 -apple-system, BlinkMacSystemFont, sans-serif;
+  font: 500 1em/1.4 -apple-system, BlinkMacSystemFont, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   color: #2E2C33;
@@ -20,9 +20,7 @@ body {
 body > * {
   display: flex;
 }
-h1 {
-  font-size: 30em;  /* 你可以根据需要更改这个值 */
-}
+
 p {
   margin-bottom: 20em;
 }
@@ -37,6 +35,6 @@ span {
 
 @media (min-width: 500px) {
   body {
-    font-size: 500em;
+    font-size: 250em;
   }
 }
