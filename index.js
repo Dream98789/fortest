@@ -48,7 +48,7 @@ const play = async () => {
     ]
   });
 
-  await delay(1500);
+  await delay(1000);
   play();
 };
 
